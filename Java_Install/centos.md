@@ -11,13 +11,12 @@ description: Centos下Java的安装
 那如何确定你的Cento是版本？在指令行输入
 
 ```bash
-// Some codelsb_release -a
+lsb_release -a
 ```
 
 我的输出是
 
 ```bash
-// Some code
 LSB Version:    :core-4.1-amd64:core-4.1-noarch
 Distributor ID: CentOS
 Description:    CentOS Linux release 7.6.1810 (Core)
