@@ -7,3 +7,7 @@
 * [Centos](Java\_Install/centos.md)
 * [Ubuntu](java\_install/ubuntu.md)
 * [自动安装](java\_install/zi-dong-an-zhuang.md)
+
+## 服务器核心的下载和安装 <a href="#ServerInstall" id="ServerInstall"></a>
+
+* [原版](ServerInstall/yuan-ban.md)
