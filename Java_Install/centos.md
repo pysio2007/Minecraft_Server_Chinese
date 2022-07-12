@@ -8,10 +8,6 @@ description: Centos下Java的安装
 请注意此文适用与Centos，其他系统请选择对应文章
 {% endhint %}
 
-{% hint style="warning" %}
-如果你不想手动安装，请查看安装脚本章节
-{% endhint %}
-
 ## 确定CENTOS内核版本
 
 如果版本小于Centos7，例如Centos6，那么建议先更换成Centos7或者Centos Stream。
