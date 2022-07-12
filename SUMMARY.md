@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [欢迎来到本教程](README.md)
