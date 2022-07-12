@@ -4,4 +4,4 @@
 
 ## Java的安装 <a href="#java_install" id="java_install"></a>
 
-* [Centos](java\_install/centos.md)
+* [Centos](Java\_Install/centos.md)
