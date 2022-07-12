@@ -4,6 +4,10 @@ description: Centos下Java的安装
 
 # Centos
 
+{% hint style="info" %}
+请注意此文适用与Centos，其他系统请选择对应文章
+{% endhint %}
+
 ## 确定CENTOS内核版本
 
 如果版本小于Centos7，例如Centos6，那么建议先更换成Centos7或者Centos Stream。
@@ -50,7 +54,7 @@ yum install java-latest-openjdk.x86_64
 
 来安装最新版本的JDK（截至本文截稿2022/7/12,安装的是JDK18）
 
-## &#x20;在最后，我们来验证Java安装结果
+## 在最后，我们来验证Java安装结果
 
 使用以下指令获取Java的版本号
 
