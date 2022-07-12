@@ -50,3 +50,20 @@ yum install java-latest-openjdk.x86_64
 
 来安装最新版本的JDK（截至本文截稿2022/7/12,安装的是JDK18）
 
+## &#x20;在最后，我们来验证Java安装结果
+
+使用以下指令获取Java的版本号
+
+```bash
+java -version
+```
+
+如果有返回Java版本，列如我安装的Java8，则返回
+
+```
+openjdk version "1.8.0_332"
+OpenJDK Runtime Environment (build 1.8.0_332-b09)
+OpenJDK 64-Bit Server VM (build 25.332-b09, mixed mode)
+```
+
+恭喜你Java安装成功了
